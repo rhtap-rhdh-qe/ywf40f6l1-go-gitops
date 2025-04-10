@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ywf40f6l1-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ywf40f6l1-go
